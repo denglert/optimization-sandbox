@@ -27,5 +27,5 @@
 - [T. Huijskens: Bayesian optimisation with scikit-learn (PyData London, 2017)](https://www.youtube.com/watch?v=jtRPxRnOXnk)
 - [G. Louppe: Bayesian optimization with scikit-optimize (PyData Amsterdam, 2017)](https://www.youtube.com/watch?v=DGJTEBt0d-s)
 - [J. Gonzalez: Introduction to Bayesian Optimization (Gaussian Processes and Uncertainty Quantification Summer School, 2017)](https://www.youtube.com/watch?v=OtWjB6lv4CE)
-- [T. Head: Bayesian Optimization - Can you do better than randomly guessing parameters? (EuroSciPy, 2017)](https://www.youtube.com/watch?v=To)
+- [T. Head: Bayesian Optimization - Can you do better than randomly guessing parameters? (EuroSciPy, 2017)](https://www.youtube.com/watch?v=ToYFc_AcKU0)
 - [J. Snoek: Scalable Bayesian Optimization Using Deep Neural Networks (ICML, 2015)](http://videolectures.net/icml2015_snoek_neural_networks/)
