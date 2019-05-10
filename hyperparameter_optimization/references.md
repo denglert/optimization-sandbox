@@ -1,17 +1,5 @@
 # Hyperparameter optimization references
 
-
-
-## scikit-learn
-
-- https://scikit-optimize.github.io/notebooks/hyperparameter-optimization.html
-- https://scikit-learn.org/stable/modules/grid_search.html
-- https://github.com/hyperopt/hyperopt-sklearn
-
-## hyperopt
-
-- http://hyperopt.github.io/hyperopt/
-
 ## Papers
 
 - [J. Bergstra, Y. Bengio: Random search for hyper-parameter
@@ -22,10 +10,42 @@
 - [J. S. Bergstra, R. Bardenet, Y. Bengio, B. Kegl: Algorithms for Hyper-Parameter
   Optimization](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization)
 
-## Lectures
+## Lectures/Talks
 
 - [T. Huijskens: Bayesian optimisation with scikit-learn (PyData London, 2017)](https://www.youtube.com/watch?v=jtRPxRnOXnk)
 - [G. Louppe: Bayesian optimization with scikit-optimize (PyData Amsterdam, 2017)](https://www.youtube.com/watch?v=DGJTEBt0d-s)
 - [J. Gonzalez: Introduction to Bayesian Optimization (Gaussian Processes and Uncertainty Quantification Summer School, 2017)](https://www.youtube.com/watch?v=OtWjB6lv4CE)
 - [T. Head: Bayesian Optimization - Can you do better than randomly guessing parameters? (EuroSciPy, 2017)](https://www.youtube.com/watch?v=ToYFc_AcKU0)
 - [J. Snoek: Scalable Bayesian Optimization Using Deep Neural Networks (ICML, 2015)](http://videolectures.net/icml2015_snoek_neural_networks/)
+
+## Packages
+
+### `scikit-learn`
+
+- https://scikit-optimize.github.io/notebooks/hyperparameter-optimization.html
+- https://scikit-learn.org/stable/modules/grid_search.html
+- https://github.com/hyperopt/hyperopt-sklearn
+
+### `hyperopt`
+
+- http://hyperopt.github.io/hyperopt/
+
+### `Spearmint`
+
+- https://github.com/HIPS/Spearmint
+
+
+### `MOE`
+
+- https://github.com/Yelp/MOE
+
+### `Hyperband`
+
+- https://people.eecs.berkeley.edu/~kjamieson/hyperband.html
+- http://fastml.com/tuning-hyperparams-fast-with-hyperband/
+- https://github.com/zygmuntz/hyperband
+
+### `SMAC`
+
+- https://github.com/automl/SMAC3
+- https://www.automl.org/automated-algorithm-design/algorithm-configuration/smac/
