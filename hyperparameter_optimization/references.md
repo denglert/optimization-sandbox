@@ -10,8 +10,12 @@
 - [J. S. Bergstra, R. Bardenet, Y. Bengio, B. Kegl: Algorithms for Hyper-Parameter
   Optimization](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization)
 
-## Lectures/Talks
+## Lectures/Talks/Schools
 
+- Sheffield group
+    - http://gpss.cc/
+    - [Gaussian Process Masterclass, Sheffield, 2017](http://gpss.cc/gpmc17/program)
+    - [Workshop on Gaussian Processes for Global Optimization](http://gpss.cc/gpgo15/)
 - [T. Huijskens: Bayesian optimisation with scikit-learn (PyData London, 2017)](https://www.youtube.com/watch?v=jtRPxRnOXnk)
 - [G. Louppe: Bayesian optimization with scikit-optimize (PyData Amsterdam, 2017)](https://www.youtube.com/watch?v=DGJTEBt0d-s)
 - [J. Gonzalez: Introduction to Bayesian Optimization (Gaussian Processes and Uncertainty Quantification Summer School, 2017)](https://www.youtube.com/watch?v=OtWjB6lv4CE)
